@@ -1,1 +1,3 @@
 hello, branch2
+
+add new line 1 in branch2
