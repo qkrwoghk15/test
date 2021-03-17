@@ -1,0 +1,5 @@
+hello, branch2
+
+add new line 1 in branch2
+
+add new line 2 in branch2
